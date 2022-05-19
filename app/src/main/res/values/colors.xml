@@ -10,16 +10,16 @@
 
 
     <color name="gray">#242B2E</color>
-    <color name="app_bg_color">#FF0034</color>
+    <color name="app_bg_color">#00BCD4</color>
     <color name="background_bg">#f2f4f7</color>
     <color name="yellow">#FFD800</color>
 
-    <color name="color1">#31AEE4</color>
-    <color name="color2">#FFEB3B</color>
-    <color name="color3">#4CAF50</color>
-    <color name="color4">#03A6A6</color>
-    <color name="color5">#9C53BC</color>
-    <color name="color6">#C15B70</color>
-    <color name="color7">#BD8B54</color>
+    <color name="color1">#4894B5</color>
+    <color name="color2">#F1DC27</color>
+    <color name="color3">#70DF74</color>
+    <color name="color4">#00BDBD</color>
+    <color name="color5">#8E35B5</color>
+    <color name="color6">#C53A56</color>
+    <color name="color7">#BC803F</color>
 
 </resources>
