@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements PopupMenu.OnMenuI
         database = RoomDB.getInstance(this);
         notes = database.mainDAO().getAll();
 
-        binding.toolbar.setTitle("Note Picker");
+        binding.toolbar.setTitle("Note App");
         setSupportActionBar(binding.toolbar);
 
         updateRecycle(notes);
